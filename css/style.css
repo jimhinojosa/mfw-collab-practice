@@ -1,0 +1,19 @@
+#navbar {
+    height: 20vh;
+    background-color: aqua;
+}
+
+#left{
+    height: 65vh;
+    background-color: black;
+}
+
+#right {
+    height: 65vh;
+    background-color: brown;
+}
+
+#footernote {
+    height: 20vh;
+    background-color: crimson;
+}
